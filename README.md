@@ -3,7 +3,7 @@
 - :seedling: I’m currently honing my skills as a Solution Engineer at Oracle
 - :video_game: I'm a rock climber on hiatus, D&D DM, and average video game player
 - :mailbox: How to reach me:
-   -  :office: [!LinkedIn] (https://www.linkedin.com/in/hanna-rakhsha/)
+   -  :office: [LinkedIn](https://www.linkedin.com/in/hanna-rakhsha/)
 
 <!--
 **hannarakhsha/hannarakhsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
